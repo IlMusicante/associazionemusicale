@@ -1,0 +1,150 @@
+/*HEADER*/
+#logo {max-width: 35%; margin-left: 33%; margin-right: 33% ; margin-bottom: 2%;}
+
+header {background-color: white; 
+        font-family: 'Comfortaa', cursive;
+        }
+
+/*MENU*/
+nav ul li {font-size: 100%;  margin-left: 10%; margin-right: 18%; text-align: center;}
+
+.sfondo {background-color: whitesmoke ;}
+
+/*HOME*/
+
+#carouselExampleIndicators {width: 50%; margin: auto; padding-top: 1em; background-color: ;}
+#titolo {margin-top: 3%;}
+.hometitles {padding-top: 2em}
+.card-group {margin: auto;}
+.icon {max-width: 8em; min-width: 6em;  padding-top: 1em; padding-left: 1em; padding-right: 1em; margin: auto}
+.card-title {min-width: 5em; margin: auto};
+
+.blacklink {color: black;}
+
+.storia {margin-left: 10em; margin-right:  10em}
+
+#signature {text-align: right;}
+
+
+
+/*GALLERY*/
+#gallery {padding-top: 1%;}
+.galleryvert {width: 25%; padding: 1%}
+.galleryoriz{width: 33%; padding: 1%; }
+
+
+/*gli insegnanti*/
+/*.morepadding {padding-top: 2%; padding-right: 10%;
+  padding-left: 10%}*/
+
+/*.insegnanti {min-width: 2em; min-height: 15em; 
+           padding-top:  5%;
+           padding-bottom: 4%}*/
+
+/*.cit {color: #000080; font-family: serif;}*/
+
+/*form contattaci*/
+.content {padding: 25px; width: 100%;box-sizing: border-box; margin: 0, auto;float: left}
+
+/*corsi*/
+.titolo { font-family:serif; margin-top: 4%;color: #191970}
+
+.size {width: 23em ;
+      border-radius: 100%;
+      padding-bottom: 1em;
+      margin-right:  2em;
+      ;
+     }
+
+.testo {font-family: sans-serif;line-height: 2em; font-size: 15px; 
+        margin-right: 2em; padding-bottom: 3em;}
+
+#testopianoforte {font-family: sans-serif;line-height: 2em; font-size: 15px; 
+        margin-right: 2em; padding-bottom: 7em;}
+
+#testobasso {font-family: sans-serif;line-height: 2em; font-size: 15px; 
+        margin-right: 2em; padding-bottom: 4em;}
+
+#testobatteria {font-family: sans-serif;line-height: 2em; font-size: 15px; 
+        margin-right: 2em; padding-bottom: 7em;}
+
+
+
+
+
+/*chitarra*/
+
+.justify-content-center { margin-top: 1%; margin-left: 1px}
+
+#imgchiesa {width: 23em ;
+              border-radius: 100%;
+              margin-right:  5%;}
+
+#testochiesa {font-family: sans-serif;
+        line-height: 2em;
+        margin-right: 2em;}
+
+#imgconte {width: 23em ;
+              border-radius: 100%;
+              padding-bottom: 1em;
+              margin-left: 5%}
+
+#testoconte {font-family: sans-serif;
+        line-height: 2em;
+        margin-right: 2em;}
+
+#imgbello {width: 23em ;
+              border-radius: 100%;
+              padding-bottom: 1em;
+              margin-right:  5%}
+
+#testobello {font-family: sans-serif;line-height: 2em;
+        margin-right: 2em;}
+
+
+.collegamenti {color: black;}  
+
+/*SEDI E ORARI*/
+.sede  {font-family: 'Comfortaa'; text-align: center; margin-top: 1em;} 
+
+table {
+border-collapse:collapse; text-align: center;
+}
+td, th {
+border:1px solid #ddd;
+/*padding:8px;*/
+}
+
+.orari { padding-top: 2px; padding-right: 0px; margin-right: auto; margin-left: auto; }
+.maps {padding-top: 2px;padding-left: 0px; margin-right: auto; margin-left: auto;}
+#days{font-family: sans-serif}
+
+/*CONTATTACI*/
+.invia {padding-bottom: 2em}
+
+/*EVENTI*/
+.events {padding-top: 3%; padding-bottom: 1%; font-family: 'Comfortaa';}
+.inprogramma {margin: auto}  
+.riga2 {margin-top: 2em; margin-bottom: 2em;}
+
+/*ISCRIZIONE*/
+#titolomodulo {padding-top: 1em; margin: auto !important;}
+.schedamodulo {margin: auto; margin-bottom: 2em;}
+.card-text {text-align: left;}
+
+/*FOOTER*/
+footer {background-color:#800000; opacity:0.8; ; /*width: 100%*/;}
+
+.footertext {padding-top:  1%;}
+.footericon {font-size: 20px; margin: auto; padding-left: 2%; padding-right: 2%;}
+.collaborazioni {margin: auto}
+#banca {max-width: 100px; }
+#chaoslab {max-width: 90px; }
+#pastorius {max-width: 50px;} 
+#normangroup {max-width: 70px;}
+#manuelbike {max-width: 90px}
+
+/*---*/
+.container-flex {display: flex;
+                flex-wrap: wrap;}
+
